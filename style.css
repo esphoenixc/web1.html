@@ -1,0 +1,13 @@
+.card {
+    margin: auto;
+    margin-top: 100px;
+}
+
+* {
+    font-family: 'Hi Melody', cursive;
+}
+
+.btn{
+    margin-left: 100px;
+    color: white;
+}
